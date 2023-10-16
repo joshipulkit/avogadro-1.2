@@ -21,7 +21,7 @@ echo ""
 # Installing necessary dependencies
 echo "Installing necessary dependencies..."
 sudo apt update
-sudo apt install cmake zlib1g-dev qt4-dev-tools qt4-qmake qttool5-dev-tools
+sudo apt install cmake zlib1g-dev qt4-dev-tools qt4-qmake qttools5-dev-tools pkg-config
 echo "Installing necessary dependencies complete!"
 echo "========================================="
 echo ""
